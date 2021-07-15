@@ -4,7 +4,7 @@
 | COPYRIGHT :copyright: | MAURINE                                                                          |
 | --------------------- | -------------------------------------------------------------------------------- |
 | PUBLISHER             | [SECTION.IO](https://section.io/engineering-education)                           |
-| CC                    | [ENG-ED](https://section.io/engineering-education/getting-started-with-jetpack-compose) |    
+| CC                    | [ENG-ED](https://www.section.io/engineering-education/getting-started-with-jetpack-compose-in-android/) |    
 
 ### Introduction to Jetpack Compose
 Android’s imperative UI design paradigm is over 11 years old at the time of writing this article😱. Over this time, a lot of issues have been raised concerning its overall performance. Android developers wished that the old view system and `XML` layouts were no longer an issue.
